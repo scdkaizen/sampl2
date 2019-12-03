@@ -6,16 +6,31 @@
   background: #5ba687 left top;
   font-style: normal;
   font-weight: normal;
-  font-size: 10px;
+  font-size: 10pt;
   color:#455951;
   border: 1px solid #455951;
-  min-width: 600px
+  min-width: 600px;
 }
 
+#title {
+  clear: both;
+  width: auto;
+  display: block;
+  min-height: 49px;
+  margin:0px;
+  padding: 30px 16px 10px;
+  background: #ffffff right top;
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18pt;
+  border-top: none;
+  border-bottom: 1px solid #455951;
+}
 
 body {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
-  margin-right: 0px
+  margin-right: 0px;
 }
