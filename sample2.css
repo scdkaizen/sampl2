@@ -7,9 +7,9 @@
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
-  font-family: "MS UI Gothic";
   color:#455951;
-
+  border: 1px solid #455951;
+  min-width: 600px
 }
 
 
