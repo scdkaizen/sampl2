@@ -1,3 +1,6 @@
+* body,* img,* div,* p{
+ _behavior: url("cssassist.htc");
+
 #header {
   clear: both;
   width: auto;
