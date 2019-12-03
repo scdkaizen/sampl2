@@ -1,6 +1,15 @@
 #page {
   width: 798px;
   margin: 0 auto;
+  min-height: auto;
+  padding: 0px;
+  background: #5ba687 left top;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  font-family: "MS UI Gothic"
+  color:#455951;
+  
 }
 
 
@@ -10,4 +19,3 @@ body {
   margin-left: 0px;
   margin-right: 0px
 }
-
